@@ -4,7 +4,9 @@
 ## Data Used
 
 **Data** - Human Resources data having records more than 22000 from the year 2000-2020.
+
 **Data Cleaning & Analysis** - MySQL Workbench
+
 **Data Visualization** - PowerBI
 
 ## Data Analysis(Questions)
